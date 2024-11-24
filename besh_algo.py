@@ -12,7 +12,7 @@ def besh_algo(P1,P2):
     return x_points, y_points
 
 p1 = (0,0)
-p2 = (10,5).
+p2 = (10,5)
 
 x_p, y_p = besh_algo(p1,p2)
 print(x_p)
